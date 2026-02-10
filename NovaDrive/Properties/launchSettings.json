@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NovaDrive (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NovaDrive (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
